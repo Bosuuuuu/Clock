@@ -36,6 +36,7 @@ public class Clock {
 	public int ah  = 0;
 	public int am = 0;
 	public int as  = 0;
+	Normal Nm = new NOrmal();
 	//Normal Nm = new Normal();
 	Alert Al = new Alert();
 	//Alert2 Al2 = new Alert2();
